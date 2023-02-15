@@ -1,0 +1,10 @@
+api-version: 1.18
+name: UltimateCrops
+author: BigSmall_8
+version: 1.0-SNAPSHOT
+main: com.mycompany.ultimatecrops.view.Main
+descripcion: Plugin Ultimate Crops
+commands:
+    crop:
+        description: Use /crop help to get the command help
+        usage: /crop
